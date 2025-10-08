@@ -1,4 +1,4 @@
-package com.example.compliance.model;
+package com.compliance.model;
 
 public enum ClientType {
   RETAIL,
